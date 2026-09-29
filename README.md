@@ -1,6 +1,6 @@
 # Omar Selim
 
-Full-Stack Software Engineer in Riyadh. I build enterprise web platforms and the pipelines that ship them.
+Full-Stack Software Engineer. I build enterprise web platforms and the pipelines that ship them.
 
 **Currently**
 - Software Engineer at ENZAR Operations & Maintenance: a multi-site asset management and reporting platform.
